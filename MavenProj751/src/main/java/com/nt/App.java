@@ -1,13 +1,13 @@
 package com.nt;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
+	public void meth1()
+	{
+		System.out.println("java is Awesome");
+	}
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+   
     }
 }
