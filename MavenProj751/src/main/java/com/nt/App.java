@@ -2,7 +2,7 @@ package com.nt;
 
 public class App 
 {
-	public void meth1()
+	public void meth2()
 	{
 		System.out.println("java is Awesome");
 	}
