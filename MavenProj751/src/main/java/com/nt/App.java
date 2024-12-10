@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
        String msg="Hello World";
+       int x=10;
     }
 }
